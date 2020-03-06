@@ -1,0 +1,11 @@
+<suite name="Regression_Suite_Tests">
+<test name="Regression Test result">
+
+<classes>
+<class name="com.qa.hubspot.tests.LoginPageTest"/>
+</classes>
+
+
+
+</test>
+</suite>

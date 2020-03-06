@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Regression_Suite_Tests]">
+  <test name="Regression Test result(failed)">
+    <classes>
+      <class name="com.qa.hubspot.tests.LoginPageTest">
+        <methods>
+          <include name="loginTestWithCorrectCredentilsTest"/>
+          <include name="verifyLoginPageTitleTest"/>
+          <include name="setUp"/>
+          <include name="verifySignUpLinkTest"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.qa.hubspot.tests.LoginPageTest -->
+    </classes>
+  </test> <!-- Regression Test result(failed) -->
+</suite> <!-- Failed suite [Regression_Suite_Tests] -->
